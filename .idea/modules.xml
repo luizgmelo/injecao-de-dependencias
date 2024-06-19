@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/injecao-construtor/injecao-construtor.iml" filepath="$PROJECT_DIR$/injecao-construtor/injecao-construtor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/injecao-de-dependencias.iml" filepath="$PROJECT_DIR$/.idea/injecao-de-dependencias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/injecao-por-propriedade/injecao-por-propriedade.iml" filepath="$PROJECT_DIR$/injecao-por-propriedade/injecao-por-propriedade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/injecao-interface-construtor/src.iml" filepath="$PROJECT_DIR$/injecao-interface-construtor/src.iml" />
+    </modules>
+  </component>
+</project>
